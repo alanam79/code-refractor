@@ -76,6 +76,26 @@ a {
     margin-left: 20px;
 }
 
+/*option bar start*/
+.options {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.options img {
+    max-height: 200px;
+}
+
+.options h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/*option bar end*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,6 +105,7 @@ a {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    bottom: 100px;
 }
 
 .benefit {
@@ -112,26 +133,6 @@ a {
 .benefits p {
     font-size: 16px;
 }
-
-/*option bar start*/
-.options {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.options img {
-    max-height: 200px;
-}
-
-.options h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/*option bar end*/
 
 /*footer start*/
 footer {
